@@ -1,4 +1,4 @@
-# Edge-Efficient Knowledge-Distilled Hybrid Vision–Language System for Plant Disease Diagnosis
+# Edge-Efficient Knowledge-Distilled Hybrid Vision–Model System for Plant Disease Detection
 
 This project presents an edge-efficient hybrid Vision–Language framework for intelligent plant disease diagnosis and smart farming guidance. A lightweight MobileNetV2 student model, trained via knowledge distillation from a high-capacity teacher network, performs low-FLOPs leaf image classification. The distilled architecture enables accurate disease prediction while maintaining computational efficiency suitable for edge and resource-constrained environments.
 
