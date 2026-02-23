@@ -17,9 +17,25 @@ By combining efficient computer vision with contextual language reasoning, this 
 - **Comparison of 6 TL models.ipynb**: A comparative study of various Transfer Learning models to benchmark performance.
 - **Two MobileNetV2 Students (Ensemble).ipynb**: Experiments with an ensemble of MobileNetV2 student models for improved accuracy.
 
-## Contributors
+## **Contributors**
 
-1. [Joseph Binu](https://github.com/Josephbinu05)
-2. [Sajeev Senthil](https://github.com/SajeevSenthil/)
-3. [Jerome Richard](https://github.com/FightKlub)
-4. [Hari Vaarthan T D](https://github.com/hari23228/hari23228)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/Jopan?s=300" width="100" alt="Jopan" /><br/>
+      <a href="https://github.com/Jopan"><b>Joseph Binu George</b></a>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/SajeevSenthil?s=300" width="100" alt="Sajeev Senthil" /><br/>
+      <a href="https://github.com/SajeevSenthil"><b>Sajeev Senthil</b></a>
+    </td>
+        <td align="center">
+      <img src="https://avatars.githubusercontent.com/hari23228?s=300" width="100" alt="Hari Varthan" /><br/>
+      <a href="https://github.com/hari23228"><b>Hari Varthan</b></a>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/FightKlub?s=300" width="100" alt="DJR" /><br/>
+      <a href="https://github.com/FightKlub"><b>Dennis Jerome Richard </b></a>
+    </td>
+  </tr>
+</table>
