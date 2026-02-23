@@ -19,7 +19,7 @@ By combining efficient computer vision with contextual language reasoning, this 
 
 ## Contributors
 
-1. [Sajeev Senthil](https://github.com/SajeevSenthil/)
-2. [Jerome Richard](https://github.com/FightKlub)
-3. [Joseph Binu](https://github.com/Josephbinu05)
+1. [Joseph Binu](https://github.com/Josephbinu05)
+2. [Sajeev Senthil](https://github.com/SajeevSenthil/)
+3. [Jerome Richard](https://github.com/FightKlub)
 4. [Hari Vaarthan T D](https://github.com/hari23228/hari23228)
